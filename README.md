@@ -1,5 +1,12 @@
 # 🛍️ Global Fashion Retail Sales Dataset
 
+## 📂 Dataset Path
+The dataset can be downloaded from the following links for each respective release:
+
+- [Transactions Dataset](https://github.com/nicholasanayaputra/Dataset/releases/tag/transactions)
+- [Customers Dataset](https://github.com/nicholasanayaputra/Dataset/releases/tag/customers)
+- [Retail Dataset](https://github.com/nicholasanayaputra/Dataset/releases/tag/retail)
+
 ## 📊 Dataset Overview
 
 This synthetic dataset simulates two years of transactional data for a multinational fashion retailer, featuring:
